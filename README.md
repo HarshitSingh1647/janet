@@ -1,6 +1,7 @@
-# Janet 👨‍💻
+## Janet 👨‍💻
 
-A semi-smart🧠 scriptbot with very useful features.
+A semi-smart🧠 virtual voice assistant🧑‍💻 with very useful features that make your life easy🙃.🚀 , schedule messages💬,get lyrics🎙️,search, make charts📊.
+
 
 ## ***Features🌟***
 

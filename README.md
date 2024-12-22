@@ -17,12 +17,12 @@ A semi-smart🧠 scriptbot with very useful features.
  - **Open apps and website with voice commands**-She can open apps like browser, games and also many websites.
  - ***And much much more✨✨***
 
-**Dark UI-**
+#**Dark UI-**
 ![janet](https://raw.githubusercontent.com/HarshitSingh1647/janet/refs/heads/main/janet%20images/janet.png)
 
-**Ask her anything-**
+#**Ask her anything-**
 ![asking her about primminster modji](https://raw.githubusercontent.com/HarshitSingh1647/janet/refs/heads/main/janet%20images/modiji.png)
-**Converse in any language**
+#**Converse in any language**
 ![introducing herself in Hindi](https://raw.githubusercontent.com/HarshitSingh1647/janet/refs/heads/main/janet%20images/hindi.png)
-**Settings**
+#**Settings**
 ![settings](https://raw.githubusercontent.com/HarshitSingh1647/janet/refs/heads/main/janet%20images/settings.png)

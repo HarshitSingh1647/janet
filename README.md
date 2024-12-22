@@ -2,7 +2,7 @@
 
 A semi-smart🧠 scriptbot with very useful features.
 
-## ***Features🌟 ***
+## ***Features🌟***
 
  - **Ask her anything🎙️** - even tough Janet is a script bot , it is integrated with wikipedia, Janet can fetch results from wkipedia. If she dosen't find anything relevant , she automatically makes a google search.
  - **Supports 249 languages💬**-she uses google translate to translate the user command into english then processes it and gives the output again by translating to desired language.
@@ -17,12 +17,19 @@ A semi-smart🧠 scriptbot with very useful features.
  - **Open apps and website with voice commands**-She can open apps like browser, games and also many websites.
  - ***And much much more✨✨***
 
-#**Dark UI-**
+# **Dark UI-**
+
 ![janet](https://raw.githubusercontent.com/HarshitSingh1647/janet/refs/heads/main/janet%20images/janet.png)
 
-#**Ask her anything-**
+# **Ask her anything-**
+
 ![asking her about primminster modji](https://raw.githubusercontent.com/HarshitSingh1647/janet/refs/heads/main/janet%20images/modiji.png)
-#**Converse in any language**
+***
+# **Converse in any language**
+
 ![introducing herself in Hindi](https://raw.githubusercontent.com/HarshitSingh1647/janet/refs/heads/main/janet%20images/hindi.png)
-#**Settings**
+
+***
+# **Settings**
+
 ![settings](https://raw.githubusercontent.com/HarshitSingh1647/janet/refs/heads/main/janet%20images/settings.png)
